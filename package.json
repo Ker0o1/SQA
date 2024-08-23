@@ -1,17 +1,17 @@
 {
-  "name": "sqa",
+  "name": "project",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest --watchAll"
   },
   "author": "",
   "license": "ISC",
+  "description": "",
   "devDependencies": {
     "jest": "^29.7.0"
   },
-  "jest":{
-    "collectCoverage": true
+  "dependencies": {
+    "package": "^1.0.1"
   }
 }
